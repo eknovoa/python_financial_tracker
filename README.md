@@ -22,12 +22,10 @@ This is a Monthly Financial Expense Tracker made in Python and using SQL.
 ```
 3. Open your terminal and navigate to where you saved the file in your folders
 4. Once inside the directory, run the following command:
-   ```
-   python3 main.py
+   ```python3 main.py
   ```
 5. If you get any error about not being able to find the mysql.connector, run the following command:
-   ```
-  pip install mysql-connector-python
+   ```pip install mysql-connector-python
   ```
 6. Then try running the python file again
 
