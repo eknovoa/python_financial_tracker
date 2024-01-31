@@ -8,7 +8,7 @@ This is a Monthly Financial Expense Tracker made in Python and using SQL.
 <img width="950" alt="Screen Shot 2022-06-15 at 8 16 07 AM" src="https://user-images.githubusercontent.com/68754679/173836280-350d8f21-2547-42da-ab95-e97a71835ab9.png">
 
 
-<video controls muted>
-  <source src="demo.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
+https://github.com/eknovoa/python_financial_tracker/assets/68754679/fb42bb8a-9da5-4d88-9c6e-3c25c79cd250
+
+
