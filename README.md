@@ -12,8 +12,8 @@ This is a Monthly Financial Expense Tracker made in Python and using SQL.
 1. Download python_financial_tracker repository to your computer
 2. Edit the following portion of code so that you can use your own SQL database (lines 18-23):
   
-  `# connecting to database
-    mydb = mysql.connector.connect(
+  `# connecting to database`
+    `mydb = mysql.connector.connect(
       host="localhost",
       user="root",
       password="1234password",
